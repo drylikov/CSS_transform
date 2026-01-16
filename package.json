@@ -1,0 +1,16 @@
+
+{
+  "name": "css-transform",
+  "version": "1.0.0",
+  "description": "CSS manipulations built on the 'css' lib",
+  "keywords": ["css", "manipulation", "preprocess", "transform"],
+  "author": "Denis Rylikov <denis.rylikov@protonmail.com>",
+  "dependencies": {
+    "css": "1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
