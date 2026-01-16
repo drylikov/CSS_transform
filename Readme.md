@@ -162,4 +162,3 @@ function transitions(vendors) {
 
 
 
-
