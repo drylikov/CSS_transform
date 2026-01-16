@@ -1,4 +1,4 @@
-# css-transform
+# CSS transform.
 
   CSS manipulations built on node-css.
 
