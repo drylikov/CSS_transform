@@ -1,6 +1,6 @@
 # CSS transform.
 
-  CSS manipulations built on node-css.
+  CSS manipulations built on Node-CSS.
 
 ## Example
 
