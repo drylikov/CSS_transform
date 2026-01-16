@@ -135,4 +135,3 @@ function transitions(vendors) {
   return val;
 })
 ```
-
